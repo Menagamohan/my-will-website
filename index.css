@@ -1,3 +1,9 @@
-.card-img-top {
+/* .card-img-top {
     width: 1px;
+} */
+
+.card-img-top {
+    border: 80%;
+    width: 100px;
+    height: 100px;
 }
